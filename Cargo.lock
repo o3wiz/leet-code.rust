@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "majority-element"
+version = "0.1.0"
+
+[[package]]
 name = "merge-sorted-array"
 version = "0.1.0"
 
