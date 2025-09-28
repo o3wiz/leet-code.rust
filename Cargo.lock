@@ -15,6 +15,10 @@ name = "jump-game"
 version = "0.1.0"
 
 [[package]]
+name = "jump-game-ii"
+version = "0.1.0"
+
+[[package]]
 name = "majority-element"
 version = "0.1.0"
 
