@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["best-time-to-buy-and-sell-stock", "best-time-to-buy-and-sell-stock-ii", "gas_station", "jump-game", "jump-game-ii","majority-element","merge-sorted-array", "playground", "product_of_array_except_self", "remove-duplicates-from-sorted-array", "remove-duplicates-from-sorted-array-ii", "remove-element", "rotate-array"]
+members = ["best-time-to-buy-and-sell-stock", "best-time-to-buy-and-sell-stock-ii", "candy", "gas_station", "jump-game", "jump-game-ii","majority-element","merge-sorted-array", "playground", "product_of_array_except_self", "remove-duplicates-from-sorted-array", "remove-duplicates-from-sorted-array-ii", "remove-element", "rotate-array"]
