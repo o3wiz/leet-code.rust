@@ -27,6 +27,10 @@ name = "jump-game-ii"
 version = "0.1.0"
 
 [[package]]
+name = "length_of_last_word"
+version = "0.1.0"
+
+[[package]]
 name = "majority-element"
 version = "0.1.0"
 
