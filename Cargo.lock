@@ -63,6 +63,10 @@ name = "remove-element"
 version = "0.1.0"
 
 [[package]]
+name = "reverse_words_in_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "rotate-array"
 version = "0.1.0"
 
