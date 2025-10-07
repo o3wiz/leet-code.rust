@@ -31,6 +31,10 @@ name = "playground"
 version = "0.1.0"
 
 [[package]]
+name = "product_of_array_except_self"
+version = "0.1.0"
+
+[[package]]
 name = "remove-duplicates-from-sorted-array"
 version = "0.1.0"
 
