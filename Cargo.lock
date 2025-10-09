@@ -19,6 +19,10 @@ name = "gas_station"
 version = "0.1.0"
 
 [[package]]
+name = "is-subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "jump-game"
 version = "0.1.0"
 
