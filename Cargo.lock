@@ -71,6 +71,10 @@ name = "rotate-array"
 version = "0.1.0"
 
 [[package]]
+name = "text-justification"
+version = "0.1.0"
+
+[[package]]
 name = "trapping-rain-water"
 version = "0.1.0"
 
