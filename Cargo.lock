@@ -79,5 +79,9 @@ name = "trapping-rain-water"
 version = "0.1.0"
 
 [[package]]
+name = "valid_palindrome"
+version = "0.1.0"
+
+[[package]]
 name = "zigzag_conversion"
 version = "0.1.0"
